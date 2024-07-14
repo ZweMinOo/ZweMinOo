@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ZweMinOo&color=green)
 
-- 🔭 I’m develop window app
+- 🔭 I develop window app
 - 🌱 I’m currently working on web development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZweMinOo&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSiThu&langs_count=8)
