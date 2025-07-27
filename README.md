@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ZweMinOo&color=green)
 
-- 🔭 I develop window app
+- 🔭 I develop window and web app
 - 🌱 I’m currently working on web development
-- 🤔 I'm looking for remote job
+- 🤔 I'm looking for remote and on site job
 - 📫 Visit for more about me: https://zweminoo.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZweMinOo&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSiThu&langs_count=8)
